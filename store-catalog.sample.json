@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "sample-game-001",
+      "title": "Sample Game",
+      "description": "Uma breve descrição do jogo para aparecer na loja.",
+      "developer": "Equipe Launcher",
+      "coverUrl": "https://example.com/covers/sample-game.jpg",
+      "heroUrl": "https://example.com/covers/sample-game-hero.jpg",
+      "tags": ["ação", "aventura"],
+      "size": "3.2 GB",
+      "downloadUrl": "https://example.com/downloads/sample-game.zip",
+      "expectedExecutable": "SampleGame/SampleGame.exe",
+      "createdAt": "2024-01-01T12:00:00.000Z"
+    }
+  ]
+}
