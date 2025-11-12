@@ -1,76 +1,299 @@
 {
   "version": 1,
-  "generatedAt": "2025-11-12T17:53:43.930Z",
+  "generatedAt": "2025-11-12T22:50:38.246Z",
   "games": [
     {
-      "id": "mimesis-60ad57",
-      "title": "MIMESIS",
-      "description": "Um jogo cooperativo de sobrevivência e terror. Quando a chuva amaldiçoada cai, surgem os « Mimesis », que imitam perfeitamente seus companheiros, criando uma tensão inédita.\nTodas as análises",
-      "developer": "Desconhecido",
-      "coverUrl": "https://topico42.com.br/wp-content/uploads/2025/05/mimesis_topico_42_relu_games_steam-1-1024x576.webp",
-      "heroUrl": "https://topico42.com.br/wp-content/uploads/2025/05/mimesis_topico_42_relu_games_steam-1-1024x576.webp",
+      "id": "mage-arena-v0-8-1-aecbc7",
+      "title": "Mage Arena v0.8.1",
+      "description": "A co-op PvP experience about using your voice to cast spells in the Mage Arena to settle an ages-old feud between sorcerers and warlocks.",
+      "developer": "jrsjams",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3716600/e09e178465c67642c1214736e29d64846d966e52/header.jpg?t=1754585254",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3716600/e09e178465c67642c1214736e29d64846d966e52/header.jpg?t=1754585254",
       "tags": [
-        "Acesso Antecipado",
-        "Cooperativo On-line",
-        "Terror",
-        "Engracado",
-        "Terror Psicologico",
-        "Acao",
-        "Terror De Sobrevivencia",
-        "Jogador X Ambiente (pve)",
-        "Primeira Pessoa",
-        "Exploracao",
-        "Cooperativo",
-        "Aventura",
-        "Acao / Aventura",
-        "Casual",
-        "Geracao Procedural",
-        "Gerenciamento De Tempo",
-        "Ficcao Cientifica",
-        "Sobrenatural",
-        "Atmosferico",
-        "Explorador De Calaboucos"
+        "Coop Online"
       ],
-      "size": "1.13 GB",
-      "downloadUrl": "https://www.mediafire.com/file/vik4fn074g88qu6/MIMESIS.zip/file",
-      "expectedExecutable": "MIMESIS.exe",
-      "createdAt": "2025-11-12T17:52:41.678Z"
+      "size": "1 GB",
+      "downloadUrl": "https://www.mediafire.com/file/im5201b453dh09x/Mage+Arena+v0.8.1.zip/file",
+      "expectedExecutable": "MageArena.exe",
+      "createdAt": "2025-11-12T22:37:31.009Z"
     },
     {
-      "id": "vampire-survivors-9cbeb9",
-      "title": "Vampire Survivors",
+      "id": "party-club-e46883",
+      "title": "Party Club Build 20076608",
+      "description": "Acomode os clientes, sirva drinks e gerencie o caos com até 4 jogadores! Considere bem o tipo de cliente antes de sentá-lo para manter a ordem. Enfrente desastres, lide com clientes excêntricos e crie o espaço perfeito para manter a festa rolando!",
+      "developer": "Lucid11 Interactive",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796010/c6d312b211ffbc2fb5e104073915d611180aef8a/header.jpg?t=1762427212",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796010/c6d312b211ffbc2fb5e104073915d611180aef8a/header.jpg?t=1762427212",
+      "tags": [
+        "Acao/aventura",
+        "Coop Online"
+      ],
+      "size": "5.5 GB",
+      "downloadUrl": "https://www.mediafire.com/file/wyfxw1j9idig6c7/Party+Club+Build+20076608.zip/file",
+      "expectedExecutable": "PartyClub.exe",
+      "createdAt": "2025-11-12T22:13:26.943Z"
+    },
+    {
+      "id": "magicka-2-v1-2-2-0-328b7f",
+      "title": "Magicka 2 v1.2.2.0",
+      "description": "The world’s most irreverent co-op action adventure returns! In the next chapter of Magicka, players ascend from the ruins of Aldrheim to experience a Midgård almost wiped free of Wizards after the Wizard Wars, with the few that do remain having either gone mad or extremely hostile toward all others",
+      "developer": "Pieces Interactive",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/header.jpg?t=1709831158",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/header.jpg?t=1709831158",
+      "tags": [
+        "Acao/aventura",
+        "Coop Online"
+      ],
+      "size": "3 GB",
+      "downloadUrl": "https://www.mediafire.com/file/c4eo2mc4h7bgnip/Magicka+2+v1.2.2.0.zip/file",
+      "expectedExecutable": "Magicka 2 v1.2.2.0\\engine\\Magicka2.exe",
+      "createdAt": "2025-11-12T22:09:15.029Z"
+    },
+    {
+      "id": "a-fazer-very-very-valet-v2-2-32591d",
+      "title": "Very Very Valet v2.2",
+      "description": "Very Very Valet é um jogo cooperativo casual mirabolante. Todos os motoristas são bem-vindos!",
+      "developer": "Toyful LLC",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448840/header.jpg?t=1702506372",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448840/header.jpg?t=1702506372",
+      "tags": [
+        "Coop Online",
+        "Arcade"
+      ],
+      "size": "700 MB",
+      "downloadUrl": "https://www.mediafire.com/file/h9m7wkazhcjgkzc/Very+Very+Valet+v2.2.zip/file",
+      "expectedExecutable": "VeryVeryValet_Release.exe",
+      "createdAt": "2025-11-12T21:38:09.667Z"
+    },
+    {
+      "id": "a-fazer-rubber-bandits-v107-0-22603-0-f805b0",
+      "title": "Rubber Bandits v107.0.22603.0",
+      "description": "Rubber Bandits é um jogo multiplayer criminosamente divertido para até 4 jogadores. Com 8 modos recheados de ação, os participantes irão roubar, brigar e correr até a linha de chegada com o maior saco de dinheiro para vencer!",
+      "developer": "Flashbulb",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206610/header.jpg?t=1728898100",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206610/header.jpg?t=1728898100",
+      "tags": [
+        "Multiplaye Online",
+        "Pvp"
+      ],
+      "size": "1.5 GB",
+      "downloadUrl": "https://www.mediafire.com/file/cbwzwcmqvtg9osn/Rubber+Bandits+v107.0.22603.0.zip/file",
+      "expectedExecutable": "Rubber Bandits.exe",
+      "createdAt": "2025-11-12T21:36:08.811Z"
+    },
+    {
+      "id": "a-fazer-risk-of-rain-2-v1-3-9-553-84432a",
+      "title": "Risk of Rain 2 v1.3.9.553",
+      "description": "Fuja de um planeta alienígena caótico enfrentando hordas de monstros frenéticos com seus amigos ou por conta própria. Combine itens de maneiras inusitadas e domine cada personagem para se tornar o caos que você temia depois da primeira aterrissagem forçada.",
+      "developer": "Hopoo Games",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1751308044",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1751308044",
+      "tags": [
+        "Coop Online",
+        "Pve",
+        "Aventura",
+        "Acao"
+      ],
+      "size": "2.6 GB",
+      "downloadUrl": "https://www.mediafire.com/file/19xxju5uinnxls2/Risk+of+Rain+2+v1.3.9.553.zip/file",
+      "expectedExecutable": "Risk of Rain 2.exe",
+      "createdAt": "2025-11-12T21:32:06.558Z"
+    },
+    {
+      "id": "raft-v1-1-05-2113d9",
+      "title": "Raft v1.1.05",
+      "description": "Raft™ throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
+      "developer": "Redbeet Interactive",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "tags": [
+        "Coop Online",
+        "Sobrevivencia"
+      ],
+      "size": "8 GB",
+      "downloadUrl": "https://www.mediafire.com/file/053oetfd1zv493i/Raft+v1.1.05.zip/file",
+      "expectedExecutable": "Raft.exe",
+      "createdAt": "2025-11-12T21:28:28.967Z"
+    },
+    {
+      "id": "drive-beyond-horizons-build-08142025-possivelmente-outdated-1f2be4",
+      "title": "(nao funcionando)Drive Beyond Horizons Build 08142025 (POSSIVELMENTE OUTDATED)",
+      "description": "Acelere seus motores e aventure-se no desconhecido com o Drive Beyond Horizons! Conquiste paisagens dinâmicas, personalize seu carro e descubra tesouros escondidos. Prepare-se para desafios de tirar o fôlego e emoção sem fim. Sua aventura começa agora! OBS: Talvez não seja a mesma versão da steam, porém, ainda funciona.",
+      "developer": "Drive Beyond Horizons",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/header.jpg?t=1760433117",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/header.jpg?t=1760433117",
+      "tags": [
+        "Multijogador",
+        "Aventura",
+        "Simulador Automobilistico"
+      ],
+      "size": "11 GB",
+      "downloadUrl": "https://drive.google.com/file/d/1_Pxgor5SGf2IoXNbcCq5bbi4UyKEBC7y/view?usp=sharing",
+      "expectedExecutable": "DriveBeyondHorizons.exe",
+      "createdAt": "2025-11-12T21:18:30.915Z"
+    },
+    {
+      "id": "ultimate-chicken-horse-v1-11-01-760a86",
+      "title": "Ultimate Chicken Horse v1.11.01",
+      "description": "Ultimate chicken horse é um jogo de plataforma de equipes onde você aumenta de nível enquanto joga, colocando armadilhas e criando situações arriscadas para colocar seus amigos em má situação, sem fazer com que você seja prejudicado.",
+      "developer": "Clever Endeavour Games",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg?t=1760056554",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg?t=1760056554",
+      "tags": [
+        "Multiplayer Online",
+        "Arcade",
+        "Pvp"
+      ],
+      "size": "2.5 GB",
+      "downloadUrl": "https://www.mediafire.com/file/65osr7w42q2kflz/Ultimate+Chicken+Horse+v1.11.01.zip/file",
+      "expectedExecutable": "UltimateChickenHorse.exe",
+      "createdAt": "2025-11-12T21:07:47.151Z"
+    },
+    {
+      "id": "unrailed-v2-1-399f91ab7-349bac",
+      "title": "Unrailed! v2.1.399F91AB7 (POSSIVELMENTE OUTDATED)",
+      "description": "Unrailed! é um jogo multijogador cooperativo em que você constrói com seus amigos um trilho de trem que atravessa mundos infinitos gerados proceduralmente. Vivencie encontros aleatórios com os habitantes, melhore seu trem e evite que ele descarrilhe! OBS: Possivelmente não é a mesma versão que tem na steam, porém, ainda funciona.",
+      "developer": "Indoor Astronaut",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1752763816",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1752763816",
+      "tags": [
+        "Coop Online",
+        "Puzzle"
+      ],
+      "size": "1.5 GB",
+      "downloadUrl": "https://www.mediafire.com/file/yb4t7yzcg097tf6/Unrailed!+v2.1.399F91AB7.zip/file",
+      "expectedExecutable": "UnrailedGame.exe",
+      "createdAt": "2025-11-12T21:00:46.159Z"
+    },
+    {
+      "id": "human-fall-flat-build-04242025-outdated-d429b5",
+      "title": "Human Fall Flat Build 04242025 (OUTDATED)",
+      "description": "Human Fall Flat é um hilário jogo de plataforma com paisagens flutuantes onde você pode jogar sozinho ou online com até 8 pessoas. Novos níveis grátis mantêm nossa vibrante comunidade envolvida.\nOBS: Não é a versão mais recente da steam, porém, ainda funciona.",
+      "developer": "No Brakes Games",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/d4b0fefc448cb2e2e20c68144c60a07739bbc4bc/header_alt_assets_26.jpg?t=1761832583",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/d4b0fefc448cb2e2e20c68144c60a07739bbc4bc/header_alt_assets_26.jpg?t=1761832583",
+      "tags": [
+        "Coop Online",
+        "Puzzle"
+      ],
+      "size": "5.1 GB",
+      "downloadUrl": "https://www.mediafire.com/file/bxfua5jzzg3pr11/Human+Fall+Flat+Build+04242025.zip/file",
+      "expectedExecutable": "Human.exe",
+      "createdAt": "2025-11-12T20:49:50.896Z"
+    },
+    {
+      "id": "lethal-company-v73-85ffc9",
+      "title": "Lethal Company v73",
+      "description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+      "developer": "Zeekerss",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1762544438",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1762544438",
+      "tags": [
+        "Coop Online",
+        "Terror"
+      ],
+      "size": "1.5 GB",
+      "downloadUrl": "https://www.mediafire.com/file/pczb87ys3gsh3e5/Lethal+Company+v73.zip/file",
+      "expectedExecutable": "Lethal Company.exe",
+      "createdAt": "2025-11-12T20:39:43.554Z"
+    },
+    {
+      "id": "gang-beasts-v1-28-1687-0-94128b",
+      "title": "Gang Beasts v1.28.1687.0",
+      "description": "Gang Beasts é um party game multijogador bobo com personagens grosseiramente gelatinosos, sequências de luta brutalmente hilárias e locais perigosamente insanos, ambientado nas duras ruas de Bife City.",
+      "developer": "Boneloaf, Rocket Science",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg?t=1732109683",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg?t=1732109683",
+      "tags": [
+        "Coop Online",
+        "Arcade"
+      ],
+      "size": "1.5 GB",
+      "downloadUrl": "https://www.mediafire.com/file/9z7habaliltxkw2/Gang+Beasts+v1.28.1687.0.zip/file",
+      "expectedExecutable": "Gang Beasts.exe",
+      "createdAt": "2025-11-12T20:36:16.294Z"
+    },
+    {
+      "id": "pummel-party-build-09252024-e94bf5",
+      "title": "Pummel Party Build 09252024",
+      "description": "Pummel Party é um jogo festivo para jogar online ou no modo multijogador local e que suporta de 1 a 8 jogadores. Vença seus amigos ou a IA usando uma grande variedade de itens insanos no modo tabuleiro e compita sem dó contra seus amigos em uma coleção exclusiva de minijogos.",
+      "developer": "Rebuilt Games",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg?t=1725311353",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg?t=1725311353",
+      "tags": [
+        "Coop Online",
+        "Arcade",
+        "Minigames"
+      ],
+      "size": "2.8 GB",
+      "downloadUrl": "https://www.mediafire.com/file/s12s4yptmfq0czt/Pummel+Party+Build+09252024.zip/file",
+      "expectedExecutable": "PummelParty.exe",
+      "createdAt": "2025-11-12T20:28:24.538Z"
+    },
+    {
+      "id": "repo-v0-3-0-17e76a",
+      "title": "REPO v0.3.0",
+      "description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.\nAnálises recentes:",
+      "developer": "semiwork",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/7706f51d3de55364a99edfe0bcf7cbf458c79546/header_alt_assets_1.jpg?t=1761906910",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/7706f51d3de55364a99edfe0bcf7cbf458c79546/header_alt_assets_1.jpg?t=1761906910",
+      "tags": [
+        "Coop Online",
+        "Terror"
+      ],
+      "size": "1.8 GB",
+      "downloadUrl": "https://www.mediafire.com/file/lbr8km86csmg9ae/REPO+v0.3.0.zip/file",
+      "expectedExecutable": "REPO.exe",
+      "createdAt": "2025-11-12T20:22:44.470Z"
+    },
+    {
+      "id": "mimesis-v0-2-4-fcffd8",
+      "title": "MIMESIS v0.2.4",
+      "description": "Um jogo cooperativo de sobrevivência e terror. Quando a chuva amaldiçoada cai, surgem os « Mimesis », que imitam perfeitamente seus companheiros, criando uma tensão inédita.",
+      "developer": "ReLU Games, Inc.",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg?t=1762480368",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg?t=1762480368",
+      "tags": [
+        "Coop Online",
+        "Terror"
+      ],
+      "size": "1.3 GB",
+      "downloadUrl": "https://www.mediafire.com/file/ja8qeuuhwyocsx5/MIMESIS+v0.2.4.zip/file",
+      "expectedExecutable": "MIMESIS.exe",
+      "createdAt": "2025-11-12T20:18:59.063Z"
+    },
+    {
+      "id": "rv-there-yet-v1-0-14520-59f288",
+      "title": "RV There Yet? v1.0.14520",
+      "description": "Una aventura cooperativa en la que tendrás que regresar a casa conduciendo tu casa rodante.",
+      "developer": "Nuggets Entertainment",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/cae24b4ed7f4531be51f0d63f785b7d253f92dc3/header.jpg?t=1761681404",
+      "heroUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/cae24b4ed7f4531be51f0d63f785b7d253f92dc3/header.jpg?t=1761681404",
+      "tags": [
+        "Coop Online",
+        "Aventura"
+      ],
+      "size": "3.5 GB",
+      "downloadUrl": "https://www.mediafire.com/file/re6cbzwl5s1kf94/RV+There+Yet+v1.0.14520.zip/file",
+      "expectedExecutable": "Ride.exe",
+      "createdAt": "2025-11-12T20:14:31.435Z"
+    },
+    {
+      "id": "vampire-survivors-1-14-105-35ac59",
+      "title": "Vampire Survivors v1.14.105",
       "description": "Acabe com milhares de criaturas noturnas e sobreviva até o amanhecer! Vampire Survivors é um jogo casual de terror gótico com elementos roguelite onde suas escolhas podem fazer você crescer rapidamente e aniquilar os milhares de monstros que aparecem pelo caminho.",
-      "developer": "poncle",
+      "developer": "Poncle",
       "coverUrl": "https://www.adrenaline.com.br/wp-content/uploads/2023/07/vampire-survivors-capa.jpg",
       "heroUrl": "https://www.adrenaline.com.br/wp-content/uploads/2023/07/vampire-survivors-capa.jpg",
       "tags": [
-        "Roguelike De Acao",
-        "Chuva De Balas",
-        "Roguelite",
-        "Graficos Pixelados",
-        "Vampiros",
-        "2d",
-        "Indie",
-        "Um Jogador",
-        "Casual",
-        "Arcade",
-        "Roguelike",
-        "Acao",
-        "Rpg",
-        "Cooperativo Local",
-        "Controle",
-        "Retro",
-        "Pontos",
-        "Pontos",
-        "Pontos!",
-        "Fantasia Sombria",
-        "Rpg De Acao",
-        "Anos 80"
+        "Coop Local",
+        "Pve",
+        "Hordas"
       ],
-      "size": "1.1 GB",
+      "size": "1.10 GB",
       "downloadUrl": "https://www.mediafire.com/file/dte1q6cuuesnj55/Vampire_Survivors_1.14.105.zip/file",
-      "expectedExecutable": "VampireSurvivors",
-      "createdAt": "2025-11-12T14:15:43.403Z"
+      "expectedExecutable": "VampireSurvivors.exe",
+      "createdAt": "2025-11-12T20:05:05.733Z"
     }
   ]
 }
