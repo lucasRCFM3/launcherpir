@@ -1,7 +1,23 @@
 {
   "version": 1,
-  "generatedAt": "2025-11-14T00:27:48.676Z",
+  "generatedAt": "2025-11-14T02:25:28.201Z",
   "games": [
+    {
+      "id": "content-warning-944d3f",
+      "title": "Content Warning",
+      "description": "Filme seus amigos fazendo coisas assustadoras para ganhar fama no SpöökTube! (Recomendamos fortemente não ir sozinho)",
+      "developer": "Wilnyl, Philip, thePetHen, Skog, Zorro",
+      "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg?t=1736717925",
+      "heroUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg?t=1736717925",
+      "tags": [
+        "Coop Online",
+        "Terror"
+      ],
+      "size": "1.1 GB",
+      "downloadUrl": "https://www.mediafire.com/file/pp9f3wlgd4edufz/Content+Warning.zip/file",
+      "expectedExecutable": "Content Warning.exe",
+      "createdAt": "2025-11-14T02:16:28.602Z"
+    },
     {
       "id": "cuphead-62e63d",
       "title": "Cuphead v1.3.4",
