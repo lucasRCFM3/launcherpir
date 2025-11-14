@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2025-11-14T03:52:57.357Z",
+  "generatedAt": "2025-11-14T14:39:00.589Z",
   "games": [
+    {
+      "id": "grounded-2-v0-2-0-1-2181664-ef2256",
+      "title": "Grounded 2 v0.2.0.1.2181664",
+      "description": "Shrunk again, but the world is much larger. In this open-world, single-player or co-op survival adventure, craft weapons and armor, build your base, and traverse the playground on your buggy. But something else is out there—and it hasn’t forgotten you.",
+      "developer": "Obsidian Entertainment, Eidos-Montréal",
+      "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2661300/c324feb96157bbab35db1b760d5f085775657526/header.jpg?t=1758098480",
+      "heroUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2661300/c324feb96157bbab35db1b760d5f085775657526/header.jpg?t=1758098480",
+      "tags": [
+        "Coop Online"
+      ],
+      "size": "30 GB",
+      "downloadUrl": "https://www.mediafire.com/file/zbgh40655iesrgf/Grounded+2+v0.2.0.1.2181664.zip.001/file",
+      "downloadParts": [
+        "https://www.mediafire.com/file/zbgh40655iesrgf/Grounded+2+v0.2.0.1.2181664.zip.001/file",
+        "https://www.mediafire.com/file/p9fxmergknthsow/Grounded+2+v0.2.0.1.2181664.zip.002/file",
+        "https://www.mediafire.com/file/6vbm9gmxvi4ulgx/Grounded+2+v0.2.0.1.2181664.zip.003/file",
+        "https://www.mediafire.com/file/sgi0juwiz3dugic/Grounded+2+v0.2.0.1.2181664.zip.004/file"
+      ],
+      "expectedExecutable": "Grounded2.exe",
+      "createdAt": "2025-11-14T14:38:51.170Z"
+    },
     {
       "id": "content-warning-944d3f",
       "title": "Content Warning",
