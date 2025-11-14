@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2025-11-12T22:50:38.246Z",
+  "generatedAt": "2025-11-14T00:27:48.676Z",
   "games": [
+    {
+      "id": "cuphead-62e63d",
+      "title": "Cuphead v1.3.4",
+      "description": "Cuphead é um jogo de ação e tiros clássico, com enorme ênfase nas batalhas de chefes. Inspirado nas animações infantis da década de 1930, os visuais e efeitos sonoros foram minuciosamente recriados com as mesmíssimas técnicas dessa era, com destaque para desenhos feitos à mão, fundos em aquarela e gravações originais de jazz.",
+      "developer": "Studio MDHR Entertainment Inc.",
+      "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+      "heroUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+      "tags": [
+        "Coop Online",
+        "Dificil"
+      ],
+      "size": "6 GB",
+      "downloadUrl": "https://www.mediafire.com/file/nef7y9581rjch73/Cuphead_v1.3.4.zip.001/file",
+      "downloadParts": [
+        "https://www.mediafire.com/file/nef7y9581rjch73/Cuphead_v1.3.4.zip.001/file",
+        "https://www.mediafire.com/file/ltq6y3p68d16wvx/Cuphead_v1.3.4.zip.002/file",
+        "https://www.mediafire.com/file/loaxagbfbrfdzyl/Cuphead_v1.3.4.zip.003/file"
+      ],
+      "expectedExecutable": "Cuphead.exe",
+      "createdAt": "2025-11-13T19:30:12.828Z"
+    },
     {
       "id": "mage-arena-v0-8-1-aecbc7",
       "title": "Mage Arena v0.8.1",
